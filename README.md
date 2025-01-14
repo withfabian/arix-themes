@@ -4,7 +4,7 @@ Un Official Arix Themes Updated By Gyu
 
 **Hanya Ada 1 Pemilik Di Indonesia Tema Ini Yaitu Saya Sendiri**
 
-Pricelist Harga Tema
+[Pricelist Harga Tema](https://github.com/withfabian/arix-themes/blob/main/pricelist.md)
 
 [Change Language](https://github.com/withfabian/arix-themes/blob/main/english.md)
 
