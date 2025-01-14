@@ -1,6 +1,11 @@
 # Arix Themes Rilis V1.3
 Un Official Arix Themes Updated By Gyu
 
+
+**Hanya Ada 1 Pemilik Di Indonesia Tema Ini Yaitu Saya Sendiri**
+
+Pricelist Harga Tema
+
 [Change Language](https://github.com/withfabian/arix-themes/blob/main/english.md)
 
 [Preview Themes](https://github.com/withfabian/arix-themes/blob/main/preview.md)
