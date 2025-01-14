@@ -1,4 +1,4 @@
-# Arix Themes Rilis V1.3
+# Arix Themes Releases V1.3
 Un Official Arix Themes Updated By Gyu
 
 
