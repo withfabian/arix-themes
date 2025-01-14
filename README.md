@@ -1,7 +1,7 @@
 # Arix Themes Rilis 1.3
 Un Official Arix Themes Updated By Gyu
 
-[Change Language](https://github.com/withfabian/arix-themes/english.md)
+[Change Language](https://github.com/withfabian/arix-themes/blob/main/english.md)
 
 Arix Themes Version 1.3 New Beta
 
