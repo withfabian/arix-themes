@@ -3,6 +3,8 @@ Un Official Arix Themes Updated By Gyu
 
 [Change Language](https://github.com/withfabian/arix-themes/blob/main/english.md)
 
+[Preview Themes](https://github.com/withfabian/arix-themes/blob/main/preview.md)
+
 Arix Themes Version 1.3 New Beta
 
 ---
